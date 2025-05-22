@@ -19,14 +19,14 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ## Overview
 
-I feel a lot more confident using CSS and Flexbox now. It became a lot easier executing the desings as I can now visualize the HTML & CSS code structure by having a 10 min observing period. This helps me organize myself ahead of time and layout a more eifficient, cleaner code. 
+I feel more confident using CSS and Flexbox simultaneously. Executing the designs has also become a lot easier, as I can now visualize the HTML and CSS code structure after a 10-minute observation period. This helps me organize myself ahead of time and lay out more efficient, cleaner code. 
 
 
 ### The challenge
 
 Users should be able to:
 
-- View the optimal layout for the section depending on their device's screen size
+- View the optimal layout for the section depending on the device's screen size
 
 ### Screenshot
 
@@ -42,23 +42,23 @@ Users should be able to:
 
 - I structured my HTML semantically
 I began by organizing key sections with semantic tags (<header>, <section>, <footer>). Use containers like <div>, <section>, or <figure> to group related content such as images, text, and buttons.
-For better practice for SEO (Although, I'm not so familair with this yet). 
+For better practice for SEO (Although I'm not so familiar with this yet). 
 
 
-- I assigned unque class names
-For each section or element that needs styling, I gave descriptive classes (.hero-section, .gallery-grid, .footer-container). 
-This makes targeting with CSS easier and clearer.
+- I assigned unique class names
+I created descriptive classes (.hero-section, .gallery-grid, .footer-container) for each section or element that needs styling. 
+This makes targeting with CSS easier and more transparent.
 
 
 - Layout planning
-I decided how my layout will adapt on different screens. For example, my header might be a three-column grid, my gallery uses a grid with specific areas, and footer content adjusts with media queries.
+I decided how my layout will adapt to different screens. For example, my header might be a three-column grid, my gallery uses a grid with specific areas, and my footer content adjusts with media queries.
 
 
-- Then for CSS I added reset & variables
+- Then, for my CSS, I added reset & variables
 Set box-sizing: border-box, remove default margins, and define CSS variables for colors and sizes (:root {}) for consistency.
 
 
-- I began stylying major components
+- I began styling major components
 Apply CSS properties:
 
 For the header: background-image, background-size, background-position, and height.
@@ -70,7 +70,7 @@ For images: set width
 For text and buttons: set fonts, sizes, spacing, and hover effects.
 
 
-- I added media queries for better responsiveness for desktop, tablet, mobile viewports adjusting all:
+- I added media queries for better responsiveness for desktop, tablet, and mobile viewports, adjusting all:
 
 Grid columns/rows
 
@@ -87,7 +87,7 @@ I used the browser tools to resize and see how the layouts reacted. Adjust CSS p
 
 - Summary: 
 
-I started with clean HTML and meaningful classes. Plan layout with CSS Grid and Flexbox, then progressively refine with media queries and testing. 
+I started with clean HTML and meaningful classes. I planned the layout with CSS Grid and Flexbox, then progressively refined it with media queries and testing. 
 
 Focused on structure first, then style with responsiveness in mind.
 
@@ -101,7 +101,7 @@ Focused on structure first, then style with responsiveness in mind.
 
 ### What I learned
 
-I feel a lot more confident using CSS and Flexbox now. It became a lot easier executing the desings as I can now visualize the HTML & CSS code structure by having a 10 min observing period. This helps me organize myself ahead of time and layout a more eifficient, cleaner code. 
+This project was reviewed, and it helped me better understand my progress so far.
 
 
 ## Author
