@@ -19,7 +19,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ## Overview
 
-I feel more confident using CSS and Flexbox simultaneously. Executing the designs has also become a lot easier, as I can now visualize the HTML and CSS code structure after a 10-minute observation period. This helps me organize myself ahead of time and lay out more efficient, cleaner code. 
+I feel more confident using CSS and Flexbox simultaneously. Executing the designs has also become much easier, as I can now visualize the HTML and CSS code structure after a 10-minute observation. This helps me organize myself ahead of time and lay out more efficient, cleaner code. 
 
 
 ### The challenge
@@ -101,7 +101,7 @@ Focused on structure first, then style with responsiveness in mind.
 
 ### What I learned
 
-This project was reviewed, and it helped me better understand my progress so far.
+This project was a review of my skills so far, and it helped me better understand my progress.
 
 
 ## Author
